@@ -1,0 +1,12 @@
+{
+  "name": "autotrader-proxy",
+  "version": "1.0.0",
+  "description": "Proxy bridging Alpaca API + Yahoo Finance for the AutoTrader artifact",
+  "main": "proxy.js",
+  "scripts": {
+    "start": "node proxy.js"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
